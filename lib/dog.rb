@@ -4,3 +4,5 @@ class Dog
     @bark= puts "The Dog is sitting."
   end
 end
+
+class Dog
