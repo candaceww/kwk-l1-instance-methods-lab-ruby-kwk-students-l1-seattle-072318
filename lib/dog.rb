@@ -8,5 +8,5 @@ class Dog
   end
 end
 
-bark
-sit
+puts bark
+puts sit
