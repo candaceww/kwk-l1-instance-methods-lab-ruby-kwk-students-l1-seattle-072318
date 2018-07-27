@@ -5,4 +5,4 @@ class Dog
   end
 end
 
-puts "The Dog is sitting"
+puts "Woof!"
